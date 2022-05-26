@@ -1,0 +1,8 @@
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\bin\Debug\csMethodExcercise.exe.config
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\bin\Debug\csMethodExcercise.exe
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\bin\Debug\csMethodExcercise.pdb
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\obj\Debug\csMethodExcercise.csproj.AssemblyReference.cache
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\obj\Debug\csMethodExcercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\obj\Debug\csMethodExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\obj\Debug\csMethodExcercise.exe
+C:\Users\Owner\repos\csMethodExcercise\csMethodExcercise\obj\Debug\csMethodExcercise.pdb
